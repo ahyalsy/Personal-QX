@@ -1,5 +1,5 @@
 DOMAIN-KEYWORD, 360buy, 🎯 全球直连
-DOMAIN-KEYWORD, -cn, 🎯 全球直连
+DOMAIN-KEYWORD, cn, 🎯 全球直连
 DOMAIN-KEYWORD, alicdn, 🎯 全球直连
 DOMAIN-KEYWORD, alimama, 🎯 全球直连
 DOMAIN-KEYWORD, alipay, 🎯 全球直连
