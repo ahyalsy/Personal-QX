@@ -1,3 +1,3 @@
-DOMAIN-KEYWORD,telegram,📱𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦
-DOMAIN-SUFFIX,telegram.me,📱𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦
-DOMAIN-SUFFIX,telegram.org,📱𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦
+DOMAIN-KEYWORD, telegram, 📱𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦
+DOMAIN-SUFFIX, telegram.me, 📱𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦
+DOMAIN-SUFFIX, telegram.org, 📱𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦

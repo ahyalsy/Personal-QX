@@ -1,2 +1,2 @@
-DOMAIN-KEYWORD,speedtest,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭
-DOMAIN-SUFFIX,ooklaserver.net,🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭
+DOMAIN-KEYWORD, speedtest, 🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭
+DOMAIN-SUFFIX, ooklaserver.net, 🚀𝐒𝐩𝐞𝐞𝐝𝐓𝐞𝐬𝐭

@@ -1,16 +1,16 @@
-DOMAIN-KEYWORD,youtube,🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
-DOMAIN-SUFFIX,app-measurement.com,🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
-DOMAIN-SUFFIX,googlevideo.com,🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
-DOMAIN-SUFFIX,youtu.be,🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
-DOMAIN-SUFFIX,youtube.com,🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
-DOMAIN-SUFFIX,ytimg.com,🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
-DOMAIN,youtubei.googleapis.com,🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
-DOMAIN,yt3.ggpht.com,🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
-DOMAIN-SUFFIX,gvt2.com,🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
-USER-AGENT,*com.google.ios.youtubemusic*,🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
-USER-AGENT,*youtube*,🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
-USER-AGENT,*YouTubeMusic*,🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
-USER-AGENT,com.google.ios.youtube*,🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
-USER-AGENT,com.google.ios.youtubemusic*,🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
-USER-AGENT,YouTube*,🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
-USER-AGENT,YouTubeMusic*,🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
+DOMAIN-KEYWORD, youtube, 🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
+DOMAIN-SUFFIX, app-measurement.com, 🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
+DOMAIN-SUFFIX, googlevideo.com, 🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
+DOMAIN-SUFFIX, youtu.be, 🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
+DOMAIN-SUFFIX, youtube.com, 🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
+DOMAIN-SUFFIX, ytimg.com, 🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
+DOMAIN, youtubei.googleapis.com, 🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
+DOMAIN, yt3.ggpht.com, 🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
+DOMAIN-SUFFIX, gvt2.com, 🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
+USER-AGENT, *com.google.ios.youtubemusic*, 🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
+USER-AGENT, *youtube*, 🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
+USER-AGENT, *YouTubeMusic*, 🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
+USER-AGENT, com.google.ios.youtube*, 🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
+USER-AGENT, com.google.ios.youtubemusic*, 🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
+USER-AGENT, YouTube*, 🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
+USER-AGENT, YouTubeMusic*, 🎬𝐘𝐨𝐮𝐓𝐮𝐛𝐞
